@@ -1,5 +1,5 @@
-const Subheader = ({text}) => {
+const Subsection = ({text}) => {
     return <h3>{text}</h3>
   }
 
-export default Subheader
+export default Subsection
