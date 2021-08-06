@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "key": 1,
+      "name": "CRA: ",
+      "url": "https://create-react-app.dev/"
+    },
+    {
+      "key": 2,
+      "name": "Vite.js: ",
+      "url": "https://vitejs.dev/"
+    },
+    {
+      "key": 3,
+      "name": "Estructura de archivos React: ",
+      "url": "https://es.reactjs.org/docs/faq-structure.html"
+    }
+  ]
+}

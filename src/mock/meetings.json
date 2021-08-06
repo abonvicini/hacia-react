@@ -1,0 +1,12 @@
+{
+  "meetings": [
+    {
+      "key": 1,
+      "date":"Lunes 18hs - Zona horaria de Buenos Aires (GMT-3)"    
+    },
+    {
+      "key": 2,
+      "date":"Jueves 19hs - Zona horaria de Buenos Aires (GMT-3)"     
+    }
+  ]
+}

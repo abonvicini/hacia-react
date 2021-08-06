@@ -1,0 +1,34 @@
+{
+  "docs": [
+    {
+      "key": 1,
+      "name":"Doc. Oficial React: ",
+      "url": "https://es.reactjs.org/docs/getting-started.html"
+    },
+    {
+      "key": 2,
+      "name":"K.C.Dodds - The Beginner's Guide to React: ",
+      "url": "https://egghead.io/courses/the-beginner-s-guide-to-react"
+    },
+    {
+      "key": 3,
+      "name":"Midudev - App React desde cero: ",
+      "url": "https://www.youtube.com/watch?v=wTpuKOhGfJE&list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7"
+    },
+    {
+      "key": 4,
+      "name":"Midudev - Bootcamp React + Node: ",
+      "url": "https://es.reactjs.org/docs/getting-started.html"
+    },
+    {
+      "key": 5,
+      "name":"fullstackopen: ",
+      "url": "https://fullstackopen.com/en/part1"
+    },
+    {
+      "key": 6,
+      "name":"30DaysOfReact: ",
+      "url": "https://github.com/brolag/30DaysOfReact"
+    }
+  ]
+}
