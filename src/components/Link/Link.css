@@ -1,0 +1,9 @@
+:root {
+  --primary-link-color:rgb(90, 90, 90);
+  --secondary-link-color:rgb(171, 178, 240);
+}
+
+
+.link {
+  color: var(--secondary-link-color);
+}
