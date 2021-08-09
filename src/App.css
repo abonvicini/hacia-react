@@ -11,7 +11,7 @@
   padding-right: calc(45px + env(safe-area-inset-right));
 }
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -25,5 +25,5 @@
 .App-link {
   color: #61dafb;
 }
-
+ */
 

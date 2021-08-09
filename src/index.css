@@ -1,5 +1,9 @@
 body {
   margin: 0;
+  box-sizing: border-box;
+  display: block;
+  word-wrap: break-word;
+
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -13,7 +17,7 @@ code {
 }
 
 *, ::after, ::before {
-  box-sizing: border-box;
+ 
 }
 section {
   padding: 0px 20px;
@@ -26,9 +30,8 @@ h2 {
 
 p, li {
     font-size: 18px;
-    word-wrap: break-word;
 }
 
-a {
-  word-wrap: break-word;
+a, h2, p, li{
+  
 }
