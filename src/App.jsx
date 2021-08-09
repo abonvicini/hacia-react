@@ -5,6 +5,7 @@ import Recursos from './components/Recursos/Recursos'
 import Goal from './components/Goal'
 import Meetings from './components/Meetings'
 import Fundamentals from './components/Fundamentals/Fundamentals'
+import AdvancedTopics from './components/AdvancedTopics'
 
 
 
@@ -17,6 +18,7 @@ function App() {
       <Integrantes />
       <Recursos />
       <Fundamentals />
+      <AdvancedTopics />
     </div>
   );
 }
