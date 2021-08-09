@@ -1,7 +1,6 @@
 import Heading from "../Heading"
 import advancedTopicsMock from "../../mock/advanced-topics.json"
 import ListItems from "../ListItems"
-import Link from "../Link"
 import React from "react"
 import "./AdvancedTopics.css"
 import Paragraph from "../Paragraph"
