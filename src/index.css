@@ -22,8 +22,9 @@ h2 {
 
 p, li {
     font-size: 18px;
+    word-wrap: break-word;
 }
 
 a {
-  
+  word-wrap: break-word;
 }
