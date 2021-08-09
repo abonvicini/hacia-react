@@ -13,15 +13,14 @@ const Integrantes = () => {
         {name}
         (<Link url={url}>{githubUser}</Link>)
       </li>
-    );
+    )
   }
 
   return <>
-    <Heading>👋🏽 Integrantes</Heading>
     <div className="integrantes">
-      <ul>
-        {getIntegrantes(membersMock.data)}
-      </ul>
+      <Heading>👋🏽 Integrantes</Heading>
+      {getIntegrantes(membersMock.data)}
+      
     </div>
   </>
 }

@@ -1,9 +1,10 @@
 import Heading from "../Heading"
 import Paragraph from "../Paragraph"
+import "./Goal.css"
 
 const Goal = () => {
   return (
-    <section>
+    <section className="goal">
       <Heading>🏆 Objetivos</Heading>
       <Paragraph>
         El objetivo es armar un grupo de estudio para ir hacia React,

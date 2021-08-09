@@ -1,3 +1,8 @@
-.docs .li {
+
+.recursos {
+
   list-style-type: none;
+  width: 900px;
+  max-width: 100%;
+
 }

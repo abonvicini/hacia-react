@@ -4,9 +4,9 @@ import "./About.css"
 
 
 const About = () => {
-    return <div className="grid">
-      <Heading className="item1">📚 About </Heading>
-      <Paragraph className="item2">
+    return <div className="about">
+      <Heading >📚 About </Heading>
+      <Paragraph >
         La idea es seguir el routemap de React que encontramos en roadmap.sh. No tenemos un material en particular, 
         proponemos este Notion con varios cursos que sirven como punto de partida y luego algunos links sobre temas 
         particulares. La idea seria ir siguiendo el routemap y enfocar la planificación en grupos de temas. En vez de 

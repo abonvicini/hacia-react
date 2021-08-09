@@ -15,7 +15,7 @@ const Recursos = () => {
 
 
     return <>
-      <div className="docs">
+      <div className="recursos">
       <Heading>Recursos Generales</Heading>
       {getDocs(documentationMock.docs)}
 

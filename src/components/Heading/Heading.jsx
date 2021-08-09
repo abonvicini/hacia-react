@@ -1,3 +1,5 @@
+import "./Heading.css"
+
 const Heading = ({ children }) => {
   return (
     <h2 className='heading'> 

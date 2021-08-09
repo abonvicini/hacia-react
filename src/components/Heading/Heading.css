@@ -1,0 +1,8 @@
+.heading {
+  max-width: 100%;
+  width: 100%;
+  white-space: pre-wrap;
+  word-break: break-word;
+  caret-color: transparent;
+  padding: 3px 2px;
+}

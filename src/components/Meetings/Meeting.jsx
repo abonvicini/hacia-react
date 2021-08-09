@@ -1,5 +1,6 @@
 import Heading from "../Heading"
 import ListItems from "../ListItems"
+import Parrafo from "../Paragraph"
 import meetingsMook from "../../mock/meetings.json"
 import "./Meeting.css"
 
@@ -13,14 +14,14 @@ const Meetings = () => {
   }
 
   return (
-    <>
-      <Heading>⌛ Reuniones</Heading>
+    
       <div className="meetings">
-        <ul>
+        <Heading>⌛ Reuniones</Heading>
+        <Parrafo>
           {getMeetings(meetingsMook.meetings)}
-        </ul>
+        </Parrafo>
       </div>
-    </>
+  
   )
 }
 
