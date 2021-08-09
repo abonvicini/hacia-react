@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+h2 {
+  font-size: 36px; 
+}
+
+p, li {
+    font-size: 18px;
+}
+
+a {
+  
+}

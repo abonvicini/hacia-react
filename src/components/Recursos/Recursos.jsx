@@ -1,5 +1,6 @@
 import Heading from "../Heading"
 import Link from "../Link"
+import Parrafo from "../Paragraph"
 import ListItems from "../ListItems"
 import documentationMock from "../../mock/documentation.json"
 import "./Recursos.css"
@@ -17,7 +18,10 @@ const Recursos = () => {
     return <>
       <div className="recursos">
       <Heading>Recursos Generales</Heading>
+      <Parrafo>
+
       {getDocs(documentationMock.docs)}
+      </Parrafo>
 
 {/*   <ul>
         {getDocs(documentationMock.docs)}
