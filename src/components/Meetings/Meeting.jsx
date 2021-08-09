@@ -15,12 +15,12 @@ const Meetings = () => {
 
   return (
     
-      <div className="meetings">
+      <section className="meetings">
         <Heading>⌛ Reuniones</Heading>
         <Parrafo>
           {getMeetings(meetingsMook.meetings)}
         </Parrafo>
-      </div>
+      </section>
   
   )
 }

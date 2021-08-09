@@ -9,10 +9,10 @@ import Paragraph from "../Paragraph"
 const AdvancedTopics = () => {
 
 /*   const getLink = (link) => link.map(({ links }) =>
-    <div>
+    <section>
       {links.name}
       <Link url={links.url}>{links.url}</Link>
-    </div>
+    </section>
   ) */
 
   const getTitle = (titles) => titles.map(({ title }) =>
@@ -28,7 +28,7 @@ const AdvancedTopics = () => {
 
 
 
-  return <div className="advanced-topics">
+  return <section className="advanced-topics">
 
     <Heading>
     Advanced Topics
@@ -40,7 +40,7 @@ const AdvancedTopics = () => {
     
     
 
-  </div>
+  </section>
 }
 
 export default AdvancedTopics

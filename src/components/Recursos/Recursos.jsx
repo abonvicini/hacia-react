@@ -16,7 +16,7 @@ const Recursos = () => {
 
 
     return <>
-      <div className="recursos">
+      <section className="recursos">
       <Heading>Recursos Generales</Heading>
       <Parrafo>
 
@@ -28,7 +28,7 @@ const Recursos = () => {
       </ul> */}
       {/* ¿Es necesario usar <ul>? */}
       
-    </div>
+    </section>
     </>
   }
 

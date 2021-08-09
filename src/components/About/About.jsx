@@ -4,7 +4,7 @@ import "./About.css"
 
 
 const About = () => {
-    return <div className="about">
+    return <section className="about">
       <Heading >📚 About </Heading>
       <Paragraph >
         La idea es seguir el routemap de React que encontramos en roadmap.sh. No tenemos un material en particular, 
@@ -17,7 +17,7 @@ const About = () => {
         habría challenges, y no necesariamente challenges fijos, sino ir armando cositas que demuestren eso nuevo que se 
         vio en la semana/s .
       </Paragraph>
-    </div>
+    </section>
   }
 
   export default About

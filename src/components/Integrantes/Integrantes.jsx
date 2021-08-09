@@ -18,14 +18,14 @@ const Integrantes = () => {
   }
 
   return <>
-    <div className="integrantes">
+    <section className="integrantes">
       <Heading>👋🏽 Integrantes</Heading>
       <Parrafo>
 
       {getIntegrantes(membersMock.data)}
       </Parrafo>
       
-    </div>
+    </section>
   </>
 }
 

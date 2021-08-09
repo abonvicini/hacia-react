@@ -14,12 +14,12 @@ const Fundamentals = () => {
     </ListItems>)
 
   return (
-    <div className="fundamentals">
+    <section className="fundamentals">
       <Heading>Fundamentals</Heading>
       <Parrafo>
         {getInfo}
       </Parrafo>
-    </div>
+    </section>
   )
 }
 
