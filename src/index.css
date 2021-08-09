@@ -15,6 +15,10 @@ code {
 *, ::after, ::before {
   box-sizing: border-box;
 }
+section {
+  padding: 0px 20px;
+  margin: 0 10px;
+}
 
 h2 {
   font-size: 36px; 
