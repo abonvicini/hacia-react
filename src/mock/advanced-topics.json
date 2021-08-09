@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "title": "Hooks",
+      "links": [
+        {
+          "name": "Doc. Oficial React",
+          "url": "https://es.reactjs.org/docs/getting-started.html"
+        }
+      ]
+    },
+    {
+      "title": "HOC's",
+      "links": [
+        {
+          "name": "Ejemplo",
+          "url": "https://medium.com/@Farzad_YZ/handle-loadings-in-react-by-using-higher-order-components-2ee8de9c3deb"
+        }
+      ]
+    },
+    {
+      "title": "Context",
+      "links": [
+        {
+          "name": "Doc. Oficial",
+          "url": "https://es.reactjs.org/docs/context.html"
+        },
+        {
+          "name": "Midudev - Ejemplo",
+          "url": "https://www.youtube.com/watch?v=2qgs7buSnHQ&t=2840s"
+        }
+      ]
+    }
+  ]
+}
