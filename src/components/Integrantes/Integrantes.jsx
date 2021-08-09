@@ -1,5 +1,6 @@
 import Heading from "../Heading/"
 import Link from "../Link"
+import Parrafo from "../Paragraph"
 import membersMock from "../../mock/members.json"
 import "./Integrantes.css"
 
@@ -19,7 +20,10 @@ const Integrantes = () => {
   return <>
     <div className="integrantes">
       <Heading>👋🏽 Integrantes</Heading>
+      <Parrafo>
+
       {getIntegrantes(membersMock.data)}
+      </Parrafo>
       
     </div>
   </>

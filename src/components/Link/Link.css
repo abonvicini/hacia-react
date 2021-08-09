@@ -6,4 +6,6 @@
 
 .link {
   color: var(--secondary-link-color);
+  word-wrap: break-word;
 }
+

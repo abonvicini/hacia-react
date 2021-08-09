@@ -4,6 +4,7 @@ import ListItems from "../ListItems"
 import Link from "../Link"
 import React from "react"
 import "./AdvancedTopics.css"
+import Paragraph from "../Paragraph"
 
 const AdvancedTopics = () => {
 
@@ -32,7 +33,10 @@ const AdvancedTopics = () => {
     <Heading>
     Advanced Topics
     </Heading>
+    <Paragraph>
+
     {getTitle(advancedTopicsMock.data)}
+    </Paragraph>
     
     
 
