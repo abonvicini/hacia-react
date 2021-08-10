@@ -20,11 +20,7 @@ const Integrantes = () => {
   return <>
     <section className="integrantes">
       <Heading>👋🏽 Integrantes</Heading>
-      <Parrafo>
-
       {getIntegrantes(membersMock.data)}
-      </Parrafo>
-      
     </section>
   </>
 }
