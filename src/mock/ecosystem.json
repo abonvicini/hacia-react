@@ -4,7 +4,7 @@
       "title": "Ecosystem",
       "links": [
         {
-          "name": "Paquete NPM con React",
+          "name": "Paquete NPM con React: ",
           "url": "https://www.npmjs.com/package/create-react-library"
         }
       ]
@@ -13,15 +13,15 @@
       "title": "Testing",
       "links": [
         {
-          "name": "React-testing-lib",
+          "name": "React-testing-lib: ",
           "url": "https://testing-library.com/docs/react-testing-library/intro/"
         },
         {
-          "name": "Formulario login",
+          "name": "Formulario login: ",
           "url": "https://www.youtube.com/watch?v=hP0h2P3BdEE"
         },
         {
-          "name": "Midudev",
+          "name": "Midudev: ",
           "url": "https://www.youtube.com/watch?v=KYjjtRgg_H0"
         }
       ]
