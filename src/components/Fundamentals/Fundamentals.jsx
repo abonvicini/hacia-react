@@ -16,9 +16,7 @@ const Fundamentals = () => {
   return (
     <section className="fundamentals">
       <Heading>Fundamentals</Heading>
-      <Parrafo>
         {getInfo}
-      </Parrafo>
     </section>
   )
 }
