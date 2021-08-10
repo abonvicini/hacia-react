@@ -6,6 +6,8 @@ import Goal from './components/Goal'
 import Meetings from './components/Meetings'
 import Fundamentals from './components/Fundamentals/Fundamentals'
 import AdvancedTopics from './components/AdvancedTopics'
+import Ecosystem from './components/Ecosystem'
+import Challenges from './components/Challenges'
 
 
 
@@ -19,6 +21,8 @@ function App() {
       <Recursos />
       <Fundamentals />
       <AdvancedTopics />
+      <Ecosystem />
+      <Challenges />
     </div>
   );
 }
